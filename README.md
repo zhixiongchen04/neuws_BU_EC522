@@ -1,6 +1,7 @@
 # Neural Wavefront Shaping
 ​
-Code for the paper "NeuWS: Neural Wavefront Shaping for Guidestar-Free Imaging Through Static and Dynamic Scattering Media" by Brandon Y. Feng, Haiyun Guo, Mingyang Xie, Vivek Boominathan, Manoj K. Sharma, Ashok Veeraraghavan, and Christopher A. Metzler.
+This code is modified from the NeuWS repository https://github.com/Intelligent-Sensing/NeuWS.git
+The original code is for the paper "NeuWS: Neural Wavefront Shaping for Guidestar-Free Imaging Through Static and Dynamic Scattering Media" by Brandon Y. Feng, Haiyun Guo, Mingyang Xie, Vivek Boominathan, Manoj K. Sharma, Ashok Veeraraghavan, and Christopher A. Metzler.
 
 https://www.science.org/doi/10.1126/sciadv.adg4671
 ​
